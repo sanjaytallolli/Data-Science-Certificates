@@ -1,3 +1,4 @@
 # Data-Science-Certificates.
 
 1. Data Scientiest Certificate From Simplilearn
+2. IBM Intellipaat Data Science Masters Certificate
